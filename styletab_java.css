@@ -1,0 +1,64 @@
+.rectangle{
+	width: 100%;
+	height: 20px;
+	background-color: red;
+}
+
+.photo{
+	width: 140px;
+	height: 140px;
+	border-radius: 70px;
+	float: left;
+}
+
+
+.entete_fond{
+	width: 100%;
+	height: 300px;
+	background-color: grey;
+
+
+}
+
+
+
+
+
+.entete{
+	float: left;
+}
+
+.entete2{
+	float: right;
+}
+
+.dest{
+	float: left;
+margin: 20px;
+font-size: 20px;
+}
+
+.envoi{
+	float: right;
+	font-size: 20px;
+
+
+
+	}
+
+	.tab input{
+		width: 68%;
+	}
+
+	.titre_tab{
+		background-color: red;
+	}
+
+	.fin{
+		text-align: right;
+	}
+
+	.fond_tab{
+		background-color: #D5CBCB;
+		 
+	}
